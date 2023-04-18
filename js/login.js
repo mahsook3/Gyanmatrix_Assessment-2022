@@ -1,4 +1,4 @@
-const defaultUsername = 'mahsook';
+const defaultUsername = 'mahsook.m.a@gmail.com';
 const defaultPassword = 'msm123';
 
 const loginForm = document.querySelector('#login-form');
